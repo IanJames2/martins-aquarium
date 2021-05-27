@@ -1,0 +1,23 @@
+body {
+  background-color: #DFB887;
+  height: 35px;
+  width: 100%;
+  opacity: .9;
+  margin-bottom: 10px;
+}
+
+.shop {
+  border: 1px solid crimson;
+  flex-basis: 20%;
+  text-align: left;
+  align-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
